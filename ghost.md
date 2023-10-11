@@ -1,3 +1,3 @@
-## ghostfile/planner-notes 
+ghostfile/planner-notes 
 
-# **PLANNING NOTES FOR GHOST.MD**
+## **PLANNING NOTES FOR GHOST.MD**
